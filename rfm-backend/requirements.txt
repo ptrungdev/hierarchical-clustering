@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+faker
+pandas
+numpy
+scipy
+scikit-learn
+openpyxl
+fpdf2

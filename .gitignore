@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+package-lock.json
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (heavy files)
+*.xlsx
+*.csv
+*.db
+*.sqlite
+
+# Generated images
+dendrogram.png
+
+# Environment
+.env
+.env.local
+
+# Claude session
+.claude/
